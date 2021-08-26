@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/ecb60a7a-d0c1-44d4-a350-5fea46591727/resourceGroups/User1/providers/Microsoft.Web/sites/misventas",
+    "appService.deploySubpath": "."
+}
